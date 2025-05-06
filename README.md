@@ -3,8 +3,6 @@ Hi, with this repo, I provide a simple code for user-similarity based movie reco
 
 <img src="docs/app_screenshot.png" alt="Movie Recommender Application in action">
 
-![Movie Recommender Application](docs/app_sreenshot.png)
-
 ## Installation and Running Instructions
 
 You will require python 3.11 or higher to run this application.
