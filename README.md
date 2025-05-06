@@ -9,13 +9,18 @@ You will require python 3.11 or higher to run this application.
 
 1. First, create a python environment using your system python as follow and activate it.
 
-> python -m venv app_env
-> source app_env/bin/activate
+```
+python -m venv app_env
+source app_env/bin/activate
+```
 
 2. Install the required packages using the requirements.txt as follow:-
-
-> pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 3. To run the application, use the streamlit package as follow:-
 
-> streamlit run app.py
+```
+streamlit run app.py
+```
