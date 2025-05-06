@@ -1,6 +1,8 @@
 # Movie-Recommender-Collaborative-Filtering
 Hi, with this repo, I provide a simple code for user-similarity based movie recommendation and a basic streamlit app to see the results. Select the user and you can see the top 10 recommendations and ratings histogram per recommendation.
 
+<img src="docs/app_screenshot.png" alt="Movie Recommender Application in action">
+
 ![Movie Recommender Application](docs/app_sreenshot.png)
 
 ## Installation and Running Instructions
